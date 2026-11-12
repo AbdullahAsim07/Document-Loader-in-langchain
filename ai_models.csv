@@ -1,0 +1,8 @@
+Model_Name,Organization,Architecture_Type,Release_Year,Primary_Use_Case
+GPT-4o,OpenAI,Transformer (Decoder-Only),2024,Multimodal Reasoning & Text Generation
+Claude 3.5 Sonnet,Anthropic,Transformer (Decoder-Only),2024,Coding & Complex Analysis
+Gemini 1.5 Pro,Google,Mixture of Experts (MoE),2024,Long-Context Document Processing
+Llama 3.1 405B,Meta,Transformer (Decoder-Only),2024,Open-Source Enterprise AI
+BERT,Google,Transformer (Encoder-Only),2018,Search & Text Classification
+AutoGPT,Significant Gravitas,Agentic Framework,2023,Autonomous Task Execution
+LangGraph,LangChain,Stateful Multi-Agent Framework,2024,Cyclic Agent Workflows & Orchestration
